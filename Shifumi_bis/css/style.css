@@ -1,0 +1,52 @@
+*{
+    margin-block: 0;
+    padding: 0;
+    margin: 0;
+}
+body{
+    text-align: center;
+}
+.container{
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 5%;
+    margin-top: 20px;
+    width: 33%;
+    background-image: linear-gradient(rgb(246, 158, 158),rgb(175, 175, 239),rgba(187, 255, 187, 0.612));
+}
+
+h1{
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    margin: 10px 0 20px 0;
+}
+
+
+div.tirage h2{
+     margin-bottom: 70px;
+     width: auto;
+}
+
+h2 ,span, img{
+    height: 100px;
+    width: auto;
+    align-items: center;
+    /* margin: 10px; */
+}
+
+.resultat h2{
+    height: auto;
+    width: 100%;
+    margin-top: 50px;
+    margin: 100px 0 ;
+}
+
+button{
+    height: 50px;
+    width: 25%;
+    margin: 0 0 10px 5px;
+    
+}
+
+
